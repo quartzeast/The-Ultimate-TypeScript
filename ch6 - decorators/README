@@ -1,0 +1,12 @@
+本章目标
+  What are decorators
+  Class decorators
+  Method decorators
+  Property decorators
+  Accessor decorators
+  Parameter decorators
+
+什么是装饰器？
+  装饰器是应用给类及其成员的 attribute。使用装饰器，我们可以改变它们的行为。
+  装饰器实际上是函数。
+  "experimentalDecorators": true

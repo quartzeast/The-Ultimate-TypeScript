@@ -1,0 +1,15 @@
+使用 typescript 创建 React 应用
+npx create-react-app reminders-app --template typescript
+
+添加 bootstrap
+npm i bootstrap
+
+创建 Title 组件
+使用 State Hook
+调用后端
+npm i axios
+
+使用 Effect Hook
+处理事件
+构建一个表单
+处理表单提交

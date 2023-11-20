@@ -1,0 +1,14 @@
+使用 ts-node 执行 ts 代码
+  npm i ts-node -D
+  npm i -g ts-node
+
+设置一个 Express 项目
+  npm i express
+  npm i -D typescript @types/node @types/express
+  tsc --init
+  npm i -D nodemon
+
+创建一个基本路由
+创建一个 Router
+解析请求体
+构造一个 API

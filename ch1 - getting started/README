@@ -1,0 +1,30 @@
+介绍 TypeScript
+  JavaScript with type checking
+
+  Static typing
+  Code completion
+  Refactoring
+  Shorthand notations
+
+设置开发环境
+  npm install -g typescript
+  tsc -v
+
+创建第一个 TypeScript 程序
+  TS 是 JS 的超级，任何 JS 代码都是合法的 TS 代码
+  tsc index.ts -> transpile ts code
+
+配置 TypeScript 编译器
+  给 TS 编译器创建一个配置文件
+    tsc --init
+  rootDir
+  outDir
+  removeComments
+  noEmitOnError 
+
+  创建配置文件后就只要使用 tsc 就可以编译整个项目文件
+
+调试 TypeScript 程序
+  打开 sourceMap 选项
+  创建 launch.json
+  设置断点，开启调试

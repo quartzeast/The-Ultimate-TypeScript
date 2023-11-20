@@ -1,0 +1,7 @@
+本章目标
+
+- Including JS code in TS projects
+- Type checking JS code
+- JSDocs
+- Declaration (Type Definition)
+- Using declaration files from @types/

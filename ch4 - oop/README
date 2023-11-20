@@ -1,0 +1,35 @@
+OOP
+  介绍面向对象编程
+  Classes                   类
+  Constructors              构造器
+  Properties and methods    属性和方法
+  Access control keywords   访问空值关键字
+  Getters and setters       getter 和 setter
+  Static members            静态方法
+  Index signatures          index 签名
+  Inheritance               继承
+  Polymorphism              多态
+  Abstract classes          抽象类
+  Interfaces                接口
+
+  什么是面向对象编程？
+    OOP 是一种编程方式或风格。
+      Procudural
+      Functional
+      Object-oriented
+      Event-driven
+      Aspect-oriented
+      ...
+
+      范式是编程代码的风格或方式。
+      TS 和 JS 是支持多范式的语言。
+
+      在面向对象编程中，对象是应用程序的构建块（building blocks），所以一个真实的应用可能由成百上千个共同协作的对象组成以解决问题。
+      对象是一个包含一些数据（同样称为状态）和操作（同样称为行为）的单元。
+      
+      例如，我们可以将一个 person 表示为一个对象，在这个对象中我们可以存储一些数据比如 person 的 name，email 等。这些是一个 person
+      对象的属性 (properties)，它们就像是只存在于 perosn 对象中的变量。在 person 对象中，我们同样可以拥有一些操作或行为，比如 talk
+      和 dance，这些本质上是 person 对象内的函数。在面向对象编程中，我们将这些函数称之为方法，所以方法是一个存在于对象内的函数。
+      同样，在一个真实的应用中，我们可以有一个对象以表示 LoginForm，一个对象表示 AuthService，一个对象表示 EmailService，所以每一个对象
+      负责单一的任务（职责）。就像现实人类社会中一样，需要 分工 和 合作。
+
